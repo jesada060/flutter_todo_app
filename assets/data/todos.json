@@ -1,0 +1,46 @@
+{
+  "todos": [
+    {
+      "todoText": "Morning Excercise",
+      "todoDetail": "",
+      "isDone": true,
+      "id": "01"
+    },
+    {
+      "todoText": "Buy Groceries",
+      "todoDetail": "",
+      "isDone": true,
+      "id": "02"
+    },
+    {
+      "todoText": "Check Emails",
+      "todoDetail": "",
+      "isDone": false,
+      "id": "03"
+    },
+    {
+      "todoText": "Team Meeting",
+      "todoDetail": "",
+      "isDone": false,
+      "id": "04"
+    },
+    {
+      "todoText": "Work on mobile apps for 2 hour",
+      "todoDetail": "",
+      "isDone": false,
+      "id": "05"
+    },
+    {
+      "todoText": "Dinner with Jenny",
+      "todoDetail": "",
+      "isDone": false,
+      "id": "06"
+    },
+    {
+      "todoText": "test",
+      "todoDetail": "test",
+      "isDone": false,
+      "id": "1699814071529"
+    }
+  ]
+}
